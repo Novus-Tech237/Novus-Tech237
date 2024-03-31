@@ -11,7 +11,7 @@
 
 - 🌱 We build using **React, Next JS, Node Js, Vue JS,TS, HTML, CSS, JS,PHP, Python, Django, Flask**
 
--
+- 🎨 We design using **Figma, Adobe Photoshop and Adobe XD**
 
 - 📫 How to reach us **novustechnologies7@gmail.com**
 
