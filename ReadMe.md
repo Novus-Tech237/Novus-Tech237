@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/Novus-Tech237/solux-p/assets/132582213/6c14513d-982e-4b70-9da3-ef90ff9ff170" alt="Image" width="1980px" height="500px">
+</p>
 <h1 align="center">Hi 👋, We are Novus Technologies</h1>
 <h3 align="center">An Innovative Startup for building Web applications Graphic Designs and Web Sites</h3>
 
