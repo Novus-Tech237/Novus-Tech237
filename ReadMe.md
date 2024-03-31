@@ -1,5 +1,3 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
-[![MasterHead](https://drive.google.com/file/d/1LTT-frfYex89Qq8kmaXhRy-W9ScYbFG9/view?usp=drive_link)]
 
 <h1 align="center">Hi 👋, We are Novus Technologies</h1>
 <h3 align="center">An Innovative Startup for building Web applications Graphic Designs and Web Sites</h3>
@@ -10,6 +8,8 @@
 - 🔭 We are currently working on **Solux E - Learning and Unigine**
 
 - 🌱 We build using **React, Next JS, Node Js, Vue JS,TS, HTML, CSS, JS,PHP, Python, Django, Flask**
+
+-
 
 - 📫 How to reach us **novustechnologies7@gmail.com**
 
