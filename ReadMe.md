@@ -7,7 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novus-tech237&label=Profile%20views&color=0e75b6&style=flat" alt="novus-tech237" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 We are currently working on **Solux E - Learning and Unigine**
+- 🔭 We are currently working on **Afuna Clinic App**
+
+- ⭐ We've built (Solux, Unigine)
 
 - 🌱 We build using **React, Next JS, Node Js, Vue JS,TS, HTML, CSS, JS,PHP, Python, Django, Flask**
 
