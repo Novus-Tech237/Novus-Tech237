@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/Novus-Tech237/solux-p/assets/132582213/6c14513d-982e-4b70-9da3-ef90ff9ff170" alt="Image" width="1980px" height="500px">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 <h1 align="center">Hi 👋, We are Novus Technologies</h1>
 <h3 align="center">An Innovative Startup for building Web applications Graphic Designs and Web Sites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novus-tech237&label=Profile%20views&color=0e75b6&style=flat" alt="novus-tech237" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🔭 We are currently working on **Afuna Clinic App**
 
@@ -103,8 +103,19 @@
  </p>
 <br>
 
-<h3>Github Statistics</h3>
+## Github Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=novus-tech237&show_icons=true&theme=radical"
     alt="GitHub Stats" width="100%">
+<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=novus-tech237&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
     align="center" width="100%" />
+
+## Top Languages
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=novus-tech237&theme=radical"
+    alt="Coding Stats" width="47.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novus-tech237&layout=compact&theme=radical"
+    alt="Top Languages" width="50.5%">
+
+
+
