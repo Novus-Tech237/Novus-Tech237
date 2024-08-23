@@ -103,8 +103,8 @@
  </p>
 <br>
 
-**Github Statistics 
+<h3>Github Statistics</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=novus-tech237&show_icons=true&theme=radical"
     alt="GitHub Stats" width="100%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=novus-tech237&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
     align="center" width="100%" />
