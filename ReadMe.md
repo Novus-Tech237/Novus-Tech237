@@ -103,7 +103,7 @@
  </p>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=novus-tech237&show_icons=true&locale=en" alt="novus-tech237" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=novus-tech237&" alt="novus-tech237" /></p>
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=novus-tech237&" alt="novus-tech237" />
 <img src="https://github-readme-stats.vercel.app/api?username=novus-tech237&show_icons=true&theme=radical"
     alt="GitHub Stats" width="100%">
