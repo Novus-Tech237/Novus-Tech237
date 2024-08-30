@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, We are Novus Technologies</h1>
 <h3 align="center">An Innovative Startup for building Web applications Graphic Designs and Web Sites</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=novus-tech237&label=Profile%20views&color=0e75b6&style=flat" alt="novus-tech237" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=novus-tech237&label=Profile%20views&color=0e75b6&style=flat" alt="novus-tech237" /> </p>
 
 
 - 🔭 We are currently working on **Afuna Clinic App**
