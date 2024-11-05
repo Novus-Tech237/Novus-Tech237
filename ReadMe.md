@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=novus-tech237&label=Profile%20views&color=0e75b6&style=flat" alt="novus-tech237" /> </p>
 
 
-- 🔭 We are currently working on **Afuna Clinic App**
+- 🔭 We are currently working on **Afuna Clinic App and Wintechgroup-Article**
 
 - ⭐ We've built (Solux, Unigine)
 
